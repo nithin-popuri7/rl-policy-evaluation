@@ -43,7 +43,7 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 
 ## Program
 ```
-Developed By:P.Siva Naga Nithin'
+Developed By:P.Siva Naga Nithin
 Reg.No:212221240037
 ```
 ```
