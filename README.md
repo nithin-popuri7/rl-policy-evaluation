@@ -204,11 +204,11 @@ else:
 
 
 ### Comparision
-![image](https://github.com/user-attachments/assets/c78c974a-4bb7-4baf-ae87-292f5a31b2f0)
+![image](https://github.com/user-attachments/assets/8c0de801-998f-4870-b4d2-7342d4baa1c3)
 
 ### Conclusion
 
-![image](https://github.com/user-attachments/assets/091b3bd2-df48-471c-91b6-5750fa05e759)
+![image](https://github.com/user-attachments/assets/7a561e23-6c16-40b6-873a-9482980b6344)
 
 
 
