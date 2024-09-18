@@ -196,11 +196,12 @@ else:
 ![image](https://github.com/user-attachments/assets/1cbd16c0-6305-47b6-8e14-7cadb76e6330)
 
 ### Policy2
-![image](https://github.com/user-attachments/assets/f2b58a14-69dd-4e0a-8098-e8621506d18e)
+![image](https://github.com/user-attachments/assets/efee7ef0-f083-493c-9d25-4ac744e726c1)
 
-![image](https://github.com/user-attachments/assets/85f18989-482b-4167-a659-5ae05a55e9fa)
+![image](https://github.com/user-attachments/assets/bdb20d78-b05b-4e65-90f1-8a4830d1e766)
 
-![image](https://github.com/user-attachments/assets/153690d6-c6b6-4308-b663-c01b2478746f)
+![image](https://github.com/user-attachments/assets/3269a517-a2df-4086-a892-9960c5ed2088)
+
 
 ### Comparision
 ![image](https://github.com/user-attachments/assets/c78c974a-4bb7-4baf-ae87-292f5a31b2f0)
